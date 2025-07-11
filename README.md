@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @Arshit001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Arshit 👋
 
-<!---
-Arshit001/Arshit001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🎓 B.Tech | AI & Data Science @ MITS
+🧠 AI Enthusiast | 📊 Data Analyst | 🛠️ Builder
+
+
+---
+
+### 🔥 About Me
+
+- 👨‍💻 I love building AI-powered tools and data-driven applications.
+- 🔍 Currently exploring: Machine Learning, EDA, FastAPI, Supabase.
+- 💡 Projects: Sign Language Translator, FemTech Tracker, Retail EDA.
+- 🧪 Passionate about solving real-world problems with AI.
+
+---
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-DA2B61?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+
+
+
+
+-
+---
+
+### 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/arshit-pachoriya-49193a29a)  
+📧 arshitarya@gmail.com
+
+---
+
+
+⭐️ _"Learning. Building. Sharing."_ ⭐️
