@@ -10,8 +10,8 @@ Hi there, I'm Arshit 👋
 ### 🔥 About Me
 
 - 👨‍💻 I love building AI-powered tools and data-driven applications.
-- 🔍 Currently exploring: Machine Learning, EDA, FastAPI, Supabase.
-- 💡 Projects: Sign Language Translator, FemTech Tracker, Retail EDA.
+- 🔍 Currently exploring: Machine Learning, EDA, Data Scientist.
+- 💡 Projects: Retail EDA.
 - 🧪 Passionate about solving real-world problems with AI.
 
 ---
